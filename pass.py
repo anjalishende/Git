@@ -14,4 +14,5 @@ void main()
 	a = p*(pow((1 + r / 100), t));
 	ci =  a - p;
 	printf("\nCompound Interest=%f",ci);	
-}
+} 
+       
